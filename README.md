@@ -6,7 +6,7 @@
 
 ## Table of contents
 
-Version FR [ici](https://github.com/Anarchybre/anarchybre.github.io/README-FR.md).
+Version FR [ici](https://github.com/Anarchybre/anarchybre.github.io/blob/master/README-FR.md).
 
 - [Introduction](#intro)
 - [Timeline](#timeline)
