@@ -35,9 +35,12 @@ Donc, tout ce dont vous avez besoin, c'est votre navigateur.
 #### Prochaines étapes
 
 * Release 1 - Structure
-* **Release 2 - Liens + Responsive :fire:**
-* Release 3 - Clicklistener sur les boutons (Défi visiteur 1)
-* Release 4 - Créer WS + Hébergement heroku
+* Release 2 - Clicklistener sur les boutons
+* Release 3 - Liens
+* **Release 4 - Challenge visiteur 1 - jeu simon :fire:**
+* Release 5 - Challenge visiteur 2 - jeu dans la console
+* Release 6 - Responsive
+* Release 7 - Créer WS + Hébergement heroku
 
 ## Outils utilisés
 Il n'y a que des images au format [SVG](https://fr.wikipedia.org/wiki/Scalable_Vector_Graphics) dans ce projet.
@@ -52,10 +55,10 @@ Il n'y a que des images au format [SVG](https://fr.wikipedia.org/wiki/Scalable_V
 
 ## Liens
   * [Github](https://github.com/Anarchybre) - *Repo et taf public*
-  * [Youtube](https://github.com/Anarchybre) - *Tutoriels, tests de technologies, Code & chill*
-  * [Twitch](https://github.com/Anarchybre) - *Codage en direct*
-  * [Twitter](https://github.com/Anarchybre) - *Pour ne plus louper un stream*
-  * [Facebook](https://github.com/Anarchybre) - *Si vous n'utilisez pas Twitter...*
+  * [Youtube](https://www.youtube.com/channel/UC7ajRz5X63gFh_1AcXHm8Kg) - *Tutoriels, tests de technologies, Code & chill*
+  * [Twitch](https://www.twitch.tv/anarchybre) - *Codage en direct*
+  * [Twitter](https://twitter.com/Anarchybr3) - *Pour ne plus louper un stream*
+  * [Facebook](https://www.facebook.com/Anarchybr3) - *Si vous n'utilisez pas Twitter...*
   * [Email](mailto:anarchybr3@gmail.com) - *Seulement avec signature PGP, ou il est directement considéré comme spam.*
 
 [(Haut de page)](#table-des-matières)

@@ -46,8 +46,14 @@ a:hover{
     width: 40%;
 }
 
-#logo #anarchybre-control-left:hover{
-    fill: #DA4567;
-}
+/** LINKS **/
 
-/** LINKS  **/
+#links a{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    line-height: 60px;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+}

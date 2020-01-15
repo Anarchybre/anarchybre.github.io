@@ -29,6 +29,12 @@ function addButtonListeners(){
     var controlRight = document.querySelector('#logo').getSVGDocument().getElementById('anarchybre-control-right-right');
     var controlBottom = document.querySelector('#logo').getSVGDocument().getElementById('anarchybre-control-right-bottom');
 
+    controlArrows.setAttribute('style', 'cursor:pointer');
+    controlTop.setAttribute('style', 'cursor:pointer');
+    controlLeft.setAttribute('style', 'cursor:pointer');
+    controlRight.setAttribute('style', 'cursor:pointer');
+    controlBottom.setAttribute('style', 'cursor:pointer');
+
     controlLeft.addEventListener('mouseout', function(e) {
         e.currentTarget.setAttribute('fill', '#222222');
     });
@@ -85,6 +91,7 @@ function updateGradient(){
     var color3 = 'rgb(' + (255 - r1) + ', ' + (255 - g1) + ', ' + (255 - b1) + ')';
     var color4 = 'rgb(' + (255 - r2) + ', ' + (255 - g2) + ', ' + (255 - b2) + ')';
 
+
     document.querySelector('#logo').getSVGDocument().getElementById('svg-color-1').setAttribute('style', 'stop-color:'+color1);
     document.querySelector('#logo').getSVGDocument().getElementById('svg-color-2').setAttribute('style', 'stop-color:'+color2);
     document.querySelector('#logo').getSVGDocument().getElementById('svg-color-3').setAttribute('style', 'stop-color:'+color1);
@@ -97,6 +104,12 @@ function updateGradient(){
     document.querySelector('#logo').getSVGDocument().getElementById('anarchybre-control-right-bottom').setAttribute('stroke', color1);
 
     document.body.setAttribute('style', 'background:'+color1);
+
+    document.getElementById('social-twitch').setAttribute('style', 'color:'+color1);
+    document.getElementById('social-github').setAttribute('style', 'color:'+color3);
+    document.getElementById('social-codepen').setAttribute('style', 'color:'+color4);
+    document.getElementById('social-twitter').setAttribute('style', 'color:'+color2);
+
     //console.log('-- Update gradient to  : '+color1);
 
     step += gradientSpeed;
@@ -146,7 +159,7 @@ Zepto(function($){
 
                             console.log('[A][STEP] Step 5.2s');
                             document.getElementById("logo").className='visible';
-
+                            document.getElementById("links").className='visible';
                             addButtonListeners();
                         }, 1200);
                     }, 2000);

@@ -35,9 +35,12 @@ So, all you need is your browser.
 ### Next steps
 
 * Release 1 - Structure
-* **Release 2 - Links + Responsive :fire:**
-* Release 3 - Clicklistener on buttons (Visitor challenge 1)
-* Release 4 - Create WS + Heroku hosting
+* Release 2 - Clicklistener on buttons
+* Release 3 - Links
+* **Release 4 - Visitor challenge 1 - simon game :fire:**
+* Release 5 - Visitor challenge 2 - console game
+* Release 6 - Responsive
+* Release 7 - Create WS + AWS hosting
 
 ## Tools
 There are only [SVG](https://fr.wikipedia.org/wiki/Scalable_Vector_Graphics) images in this project.
@@ -52,10 +55,10 @@ There are only [SVG](https://fr.wikipedia.org/wiki/Scalable_Vector_Graphics) ima
 
 ## Links
 * [Github](https://github.com/Anarchybre)   - *Repositories and public work*
-* [Youtube](https://github.com/Anarchybre)  - *Tutorials, technologies testing, Code & chill*
-* [Twitch](https://github.com/Anarchybre)   - *Live coding*
-* [Twitter](https://github.com/Anarchybre)  - *Be informed of live streaming in real time*
-* [Facebook](https://github.com/Anarchybre) - *If you don't use twitter...*
+* [Youtube](https://www.youtube.com/channel/UC7ajRz5X63gFh_1AcXHm8Kg)  - *Tutorials, technologies testing, Code & chill*
+* [Twitch](https://www.twitch.tv/anarchybre)   - *Live coding*
+* [Twitter](https://twitter.com/Anarchybr3)  - *Be informed of live streaming in real time*
+* [Facebook](https://www.facebook.com/Anarchybr3) - *If you don't use twitter...*
 * [Email](mailto:anarchybr3@gmail.com)      - *Only with PGP signature, or it's directly redirected to spam*
 
 [(Back to top)](#table-of-contents)
